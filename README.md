@@ -1,0 +1,3 @@
+# Lending-Club-Loan-Analysis-2007-2015
+
+This analysis is based on Lending Club dataset from Kaggle, which has information about the borrower (income, employment length, debt-to-income ratio, etc.) and the loan listing (the loan amount, loan purpose, loan grade, interest rate, installment, etc.). I have merged some external dataset to current datasets to get various visualizations such as Loan risk vs interest rate, 5 most load borrowing states in USA ,Default rates & total loans interms of different States and Employee titles. All these results are devloped by using around 800 obersvations, 74 variables and Data visualization libraries.
